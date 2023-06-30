@@ -1,7 +1,7 @@
 # Data-Analysis-In-Hospitality-Domain
 
 #### Context: 
-   ##### A company named Atliq Grands is a hotel chain in India which operates in various cities such as Delhi, Mumbai , Banglore and Hyderabad and they have been in the industry for around 20 years. They have different types of hotels such as Atliq Seasons, Atliq Exotica , Atliq bay , Atliq Palace and these hotels have different types of rooms based on their size such as Standard, Elite ,Premium , and Presidential. Bookings can be done in these hotels via various mediums,  one is their own website, other than that one go to a third party website that is makeyourtrip , Logtrip , Tripster to make their bookings. 
+   ##### A company named Atliq Grands is a hotel chain in India which operates in various cities such as Delhi, Mumbai , Bangalore and Hyderabad and they have been in the industry for around 20 years. They have different types of hotels such as Atliq Seasons, Atliq Exotica , Atliq bay , Atliq Palace and these hotels have different types of rooms based on their size such as Standard, Elite ,Premium , and Presidential. Bookings can be done in these hotels via various mediums,  one is their own website, other than that one go to a third party website that is makeyourtrip , Logtrip , Tripster to make their bookings. 
    ***
 
 
